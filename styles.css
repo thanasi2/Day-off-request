@@ -1,0 +1,62 @@
+body{
+  background-color: #003366;
+}
+
+header{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+main{
+  font-family: 'Open Sans', sans-serif;
+  padding: 10px;
+  margin: auto;
+  max-width: 500px;
+  min-width: 250px;
+  background: white;
+}
+
+
+.input{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+  padding: 5px;
+  border: 1px solid black;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+
+.remove {
+  font-weight: bold;
+  text-align: right;
+  margin-bottom: 0px;
+
+}
+
+/* #content {
+  margin: auto;
+} */
+
+
+#emp1 {
+  display: none;
+}
+
+#emp2 {
+  display: none;
+}
+
+#myList{
+  display: block;
+}
+
+#off {
+  display: inline-flex;
+}
+
+#offType{
+  display: none;
+}
