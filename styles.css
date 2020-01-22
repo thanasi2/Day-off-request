@@ -1,14 +1,14 @@
-body{
+body {
   background-color: #003366;
 }
 
-header{
+header {
   font-family: 'Open Sans', sans-serif;
   color: white;
   text-align: center;
 }
 
-main{
+main {
   font-family: 'Open Sans', sans-serif;
   padding: 10px;
   margin: auto;
@@ -18,7 +18,7 @@ main{
 }
 
 
-.input{
+.input {
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -36,27 +36,10 @@ main{
 
 }
 
-/* #content {
-  margin: auto;
-} */
-
-
-#emp1 {
-  display: none;
-}
-
-#emp2 {
-  display: none;
-}
-
-#myList{
+#rType {
   display: block;
 }
 
 #off {
   display: inline-flex;
-}
-
-#offType{
-  display: none;
 }
